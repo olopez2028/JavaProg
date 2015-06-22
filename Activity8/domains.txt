@@ -1,0 +1,8 @@
+com.apple
+com.cnn
+com.google
+edu.princeton
+edu.princeton.cs
+edu.princeton.cs.bolle
+edu.princeton.cs.www
+edu.princeton.ee
